@@ -2,7 +2,6 @@
 
 <h4 align="center">Full stack application<h4>
 
-![app](client/public/images/screenshot.gif)
 
 ## Description
 
@@ -21,9 +20,6 @@ This App is deployed on Heroku: [Google Books Search](https://google-books-searc
 
 MVC design pattern: Model, View, Controller.
 
-<h2 align="center">
-<img alt="mern" src="client/public/images/mern.jpg" width="50%">
-</h2>
 
 - [MongoDB](mongodb.com)
 - [Express.js](https://expressjs.com)
@@ -53,4 +49,4 @@ MVC design pattern: Model, View, Controller.
 
 ## Author
 
-Victoire Baron | [Victoire44](https://github.com/Victoire44)
+Raihan Akter
