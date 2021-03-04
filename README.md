@@ -1,8 +1,10 @@
 # Google Books Search
 
-<h4 align="center">Full stack application<h4>
+[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/DAVFoundation/captain-n3m0/blob/master/LICENSE)
 
 
+* Deployed Link: 
+* Github Repo: https://github.com/RaihanAkter03/Google_Search_Books
 ## Description
 
 React-based Google Books Search app that displays books on user searches. Users can save them to review or purchase later. 
@@ -47,6 +49,6 @@ MVC design pattern: Model, View, Controller.
   }
 ```
 
-## Author
+## Develop By 
 
 Raihan Akter
