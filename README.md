@@ -3,20 +3,20 @@
 [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/DAVFoundation/captain-n3m0/blob/master/LICENSE)
 
 
-* Deployed Link: 
+* Deployed Link: https://murmuring-crag-84033.herokuapp.com/
 * Github Repo: https://github.com/RaihanAkter03/Google_Search_Books
 
 ![landing](client/public/images/app.JPG)
+![landing](client/public/images/save.JPG)
 
 
 ## Description
 
-React-based Google Books Search app that displays books on user searches. Users can save them to review or purchase later. 
+React-based Google Books Search app that displays books on user searches. Users can save and unsave them to review or purchase later. 
 
 `Save` button to save the book to the database.<br>
-`View` button to view the book on Google Books.
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+`View` button to view the book on Google Books.<br>
+`Unsave` button to unsave the saved book.
 
 
 ## Technologies used
@@ -52,4 +52,4 @@ MVC design pattern: Model, View, Controller.
 
 ## Develop By 
 
-Raihan Akter
+* Raihan Akter
